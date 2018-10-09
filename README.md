@@ -15,7 +15,7 @@ A collection of Udacity data foundation nano degree notes
 
 Data Types                                           | Charts
 ---------------------------------------------------- | -------------
- univariate quamtitative variable                    |  Histogram
+ univariate quantitative variable                    |  Histogram
  univariate categorical data                         |  Bar chart( Bins are created based on category)
  ordinal categorical variable                        |  Bar chart
  analyzing a quantitative variable over time         |  Line plots
