@@ -20,7 +20,7 @@ Data Types                                           | Charts
  ordinal categorical variable                        |  Bar chart
  analyzing a quantitative variable over time         |  Line plots
  comparing two quantitative variables                |  Scatter plots 
- categorical variables                               |  Pie chart
+ categorical variables                               |  Pie chart , Pareto chart
   
  
 
