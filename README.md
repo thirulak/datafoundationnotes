@@ -12,10 +12,16 @@ A collection of Udacity data foundation nano degree notes
 * https://www.mathsisfun.com/data/correlation.html
 * https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio/
 * http://charliepark.org/images/slopegraphs/natgeo_scatter.jpg
-* univariate quamtitative variable - Histogram
-* univariate categorical data - Bar chart( Bins are created based on category)
-* ordinal categorical variable - Bar chart
-* analyzing a quantitative variable over time - Line plots
-* comparing two quantitative variables -  Scatter plots 
-* categorical variables - Pie chart
+
+Data Types                                           | Charts
+---------------------------------------------------- | -------------
+ univariate quamtitative variable                    |  Histogram
+  univariate categorical data                        |  Bar chart( Bins are created based on category)
+
+
+ 
+ ordinal categorical variable - Bar chart
+ analyzing a quantitative variable over time - Line plots
+ comparing two quantitative variables -  Scatter plots 
+ categorical variables - Pie chart
 
