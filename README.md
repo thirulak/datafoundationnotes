@@ -11,3 +11,4 @@ A collection of Udacity data foundation nano degree notes
 * https://support.office.com/en-us/article/Define-and-use-names-in-formulas-4d0f13ac-53b7-422e-afd2-abd7ff379c64#bmcreate_a_name_by_using_the_create_nam
 * https://www.mathsisfun.com/data/correlation.html
 * https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio/
+* http://charliepark.org/images/slopegraphs/natgeo_scatter.jpg
