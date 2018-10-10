@@ -14,6 +14,7 @@ Detailed Description:https://github.com/lionelmann/dfnd/wiki
 * https://www.mathsisfun.com/data/correlation.html
 * https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio/
 * http://charliepark.org/images/slopegraphs/natgeo_scatter.jpg
+* https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies/
 
 Data Types                                           | Charts
 ---------------------------------------------------- | -------------
