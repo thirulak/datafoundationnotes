@@ -42,6 +42,7 @@ lie factor =  (Δvisual/startVis)DIVIDEDBY(Δdata/startData)
 * https://kb.tableau.com/articles/HowTo/dual-axis-bar-chart-multiple-measures
 * https://www.evolytics.com/blog/tableau-201-how-to-make-small-multiples/
 * https://public.tableau.com/en-us/s/
+* https://onlinehelp.tableau.com/current/pro/desktop/en-us/data_interpreter.html
            
            
 
