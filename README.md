@@ -44,6 +44,7 @@ lie factor =  (Δvisual/startVis)DIVIDEDBY(Δdata/startData)
 * https://www.evolytics.com/blog/tableau-201-how-to-make-small-multiples/
 * https://public.tableau.com/en-us/s/
 * https://onlinehelp.tableau.com/current/pro/desktop/en-us/data_interpreter.html
+* https://onlinehelp.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields.html
            
            
 
