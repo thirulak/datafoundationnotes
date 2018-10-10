@@ -16,6 +16,7 @@ Detailed Description:https://github.com/lionelmann/dfnd/wiki
 * http://charliepark.org/images/slopegraphs/natgeo_scatter.jpg
 * https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies/
 * https://archive.ics.uci.edu/ml/datasets/Challenger+USA+Space+Shuttle+O-Ring
+* https://www.tableau.com/about/blog/2016/4/examining-data-viz-rules-dont-use-red-green-together-53463
 
 Data Types                                           | Charts
 ---------------------------------------------------- | -------------
