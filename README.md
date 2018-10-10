@@ -35,6 +35,11 @@ The graphical effect is (146-27)/27 = 4.407, and the data effect is (39.6-35)/35
 - The lie factor is calculated in the following way
 
 lie factor =  (Δvisual/startVis)DIVIDEDBY(Δdata/startData)
+
+#### Tableau:
+* https://www.tableau.com/about/blog/2017/2/top-10-tableau-table-calculations-65417
+* https://kb.tableau.com/articles/HowTo/dual-axis-bar-chart-multiple-measures
+* https://www.evolytics.com/blog/tableau-201-how-to-make-small-multiples/
            
            
 
