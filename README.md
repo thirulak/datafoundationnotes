@@ -15,6 +15,7 @@ Detailed Description:https://github.com/lionelmann/dfnd/wiki
 * https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio/
 * http://charliepark.org/images/slopegraphs/natgeo_scatter.jpg
 * https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies/
+* https://archive.ics.uci.edu/ml/datasets/Challenger+USA+Space+Shuttle+O-Ring
 
 Data Types                                           | Charts
 ---------------------------------------------------- | -------------
