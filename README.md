@@ -1,6 +1,8 @@
 # Data_foundation_notes
 A collection of Udacity data foundation nano degree notes 
 ## Images_from-Udacity:Data foundations Nano Degree Program
+
+Detailed Description:https://github.com/lionelmann/dfnd/wiki
 ### Useful links :
 * https://office.live.com/start/excel.aspx
 * https://www.mathsisfun.com/data/standard-normal-distribution.html 
