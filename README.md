@@ -32,9 +32,9 @@ Data Types                                           | Charts
 The graphical effect is (146-27)/27 = 4.407, and the data effect is (39.6-35)/35 = 0.131, giving a lie factor of 33.54. Any lie factor different than 1 suggests that a visual is distorting the data. When the factor is greater than 1, we are making an effect larger than it actually is and factors less than 1 are hiding the magnitude of an effect.
 - The lie factor is calculated in the following way
 
-lie factor = Δdata/startData
-            ------------------
-            Δvisual/startVis
+lie factor =  (Δvisual/startVis)DIVIDEDBY(Δdata/startData)
+           
+           
 
 
  
