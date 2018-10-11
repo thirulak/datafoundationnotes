@@ -49,7 +49,7 @@ lie factor =  (Δvisual/startVis)DIVIDEDBY(Δdata/startData)
 * Tableau Exercises: https://public.tableau.com/profile/thiru3313#!/vizhome/Udacity_dfnd_Exercise1/Sheet1
 
 - Negative correlation :
- ![image](https://user-images.githubusercontent.com/36688218/46808748-aad3fa80-cd8a-11e8-86fb-c330007e5c8f.png)
+ ![picture alt]((https://user-images.githubusercontent.com/36688218/46808748-aad3fa80-cd8a-11e8-86fb-c330007e5c8f.png)
 
 
            
