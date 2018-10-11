@@ -46,6 +46,7 @@ lie factor =  (Δvisual/startVis)DIVIDEDBY(Δdata/startData)
 * https://onlinehelp.tableau.com/current/pro/desktop/en-us/data_interpreter.html
 * https://onlinehelp.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields.html
 * https://onlinehelp.tableau.com/current/pro/desktop/en-us/joining_tables.html
+* Tableau Exercises: https://public.tableau.com/profile/thiru3313#!/vizhome/Udacity_dfnd_Exercise1/Sheet1
            
            
 
