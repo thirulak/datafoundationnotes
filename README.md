@@ -49,9 +49,9 @@ lie factor =  (Δvisual/startVis)DIVIDEDBY(Δdata/startData)
 * Tableau Exercises: https://public.tableau.com/profile/thiru3313#!/vizhome/Udacity_dfnd_Exercise1/Sheet1
 
 - Negative correlation :
+ 
  ![picture alt](https://user-images.githubusercontent.com/36688218/46808748-aad3fa80-cd8a-11e8-86fb-c330007e5c8f.png)
 - Positive correlation :
-https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjLh6jHw_7dAhULaI8KHaawAboQjRx6BAgBEAU&url=http%3A%2F%2Fwww.itl.nist.gov%2Fdiv898%2Fhandbook%2Feda%2Fsection3%2Fscatter2.htm&psig=AOvVaw15TcwdP5LTuN7DkOXcC4i3&ust=1539352091854125
 
 
            
