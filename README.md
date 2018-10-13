@@ -47,6 +47,8 @@ lie factor =  (Δvisual/startVis)DIVIDEDBY(Δdata/startData)
 * https://onlinehelp.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields.html
 * https://onlinehelp.tableau.com/current/pro/desktop/en-us/joining_tables.html
 * https://www.perceptualedge.com/articles/visual_business_intelligence/dual-scaled_axes.pdf
+* http://www.clearlyandsimply.com/clearly_and_simply/2014/06/string-calculations-in-tableau.html
+* https://onlinehelp.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields.html
 * Tableau Exercises: https://public.tableau.com/profile/thiru3313#!/vizhome/Udacity_dfnd_Exercise1/Sheet1
 
 - Negative correlation :
