@@ -50,6 +50,7 @@ lie factor =  (Δvisual/startVis)DIVIDEDBY(Δdata/startData)
 * http://www.clearlyandsimply.com/clearly_and_simply/2014/06/string-calculations-in-tableau.html
 * https://onlinehelp.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields.html
 * https://onlinehelp.tableau.com/current/pro/desktop/en-us/help.htm#dashboards.html%3FTocPath%3DPresent%2520Your%2520Work%7CDashboards%7C_____0
+* https://onlinehelp.tableau.com/current/pro/desktop/en-us/story_create.html
 * Tableau Exercises: https://public.tableau.com/profile/thiru3313#!/vizhome/Udacity_dfnd_Exercise1/Sheet1
 * Favorite : https://public.tableau.com/en-us/s/gallery/what-emoji-say-about-music?gallery=featured
 
