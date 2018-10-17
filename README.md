@@ -62,6 +62,7 @@ lie factor =  (Δvisual/startVis)DIVIDEDBY(Δdata/startData)
 
 ![picture alt](https://user-images.githubusercontent.com/36688218/46809706-b88a7f80-cd8c-11e8-8025-e191be28598a.png)
 
+- Types of Charts :
 ![image](https://user-images.githubusercontent.com/36688218/47100588-7f9f4e80-d255-11e8-8f29-13c71dee4ec1.png)
 
 
