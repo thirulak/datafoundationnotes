@@ -32,7 +32,8 @@ Data Types                                           | Charts
 - https://www.edrawsoft.com/histogram-vs-bar-chart.php
 - https://www.forbes.com/sites/naomirobbins/2012/01/04/a-histogram-is-not-a-bar-chart/#1c9ed00c6d77
 - https://www.youtube.com/watch?v=JsEwJD1mYpU
- **Lie factor:**
+ 
+ - **Lie factor:**
  
 - The lie factor calculted in this repo is based on this chart : ![bad-viz-2](https://user-images.githubusercontent.com/36688218/46714530-83d9d380-cc79-11e8-9a04-7abba03713ea.png) 
 - Though this chart doesn't provides more info
